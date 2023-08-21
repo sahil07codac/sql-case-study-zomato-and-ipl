@@ -1,6 +1,26 @@
 # sql-case-study-zomato-and-ipl
 
+ **SQL**
+ 
+Here,
+
+we have solved the two case studies one is related to **Zommato** and other is related to **IPL** description of both datasets are given below :
+
+
+
+
+
+
+
+
+**------------*******-------------------------*******-------------------------*******-------------------------*******-------------------------*******-------------------------*******------**
+
+
 **zommato dataset**
+
+ ![image](https://github.com/sahil07codac/sql-case-study-zomato-and-ipl/assets/141804728/78572494-b844-4cee-9807-a52fc78f7518)
+
+
 About data- various tables are here, like, user, restaurant, order,order_details, delivery partners, food, menu,
 
 Description of each table
@@ -79,6 +99,10 @@ CASE PROBLEMS
 SQL CASE STUDY
 
 **IPL dataset**
+
+![image](https://github.com/sahil07codac/sql-case-study-zomato-and-ipl/assets/141804728/ced32050-5a03-41aa-ba05-2c5593f75b5c)
+
+
 About data- there are two table matches & deliveries
 
 Description of each table
