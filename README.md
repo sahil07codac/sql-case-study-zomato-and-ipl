@@ -1,7 +1,35 @@
 # sql-case-study-zomato-and-ipl
 
  **SQL**
- 
+ Achievements and Contributions:
+
+Customer Segmentation:
+
+Identified customers who have never placed an order, enabling targeted marketing strategies to increase customer engagement.
+Price Optimization:
+
+Calculated the average price per dish, aiding in pricing strategies and menu planning for enhanced profitability.
+Top Restaurant Recognition:
+
+Developed a query to determine the top restaurant based on the number of orders for a given month, facilitating performance analysis and recognition.
+Sales Analysis:
+
+Established a mechanism to identify restaurants with monthly sales exceeding a specified threshold, enabling proactive management of high-performing establishments.
+Order Tracking and Customer Engagement:
+
+Implemented a solution to showcase all orders with order details for specific customers within a designated date range, improving order tracking and customer service.
+Customer Loyalty Insights:
+
+Identified the restaurant with the maximum repeated customers, providing valuable insights for customer loyalty programs and targeted marketing efforts.
+Revenue Growth Analysis:
+
+Implemented month-over-month revenue growth analysis, enabling the identification of trends and areas for strategic business development.
+Monthly Revenue Reports:
+
+Established month-wise revenue reports for effective financial planning and performance evaluation.
+Customer Preferences:
+
+Developed a query to link customers with their favorite dishes, fostering personalized customer experiences and informed menu adjustments.
 Here,
 
 we have solved the two case studies one is related to **Zommato** and other is related to **IPL** description of both datasets are given below :
