@@ -4,7 +4,7 @@
  
 Here,
 
-we have solved the two case studies one is related to **Zommato** and other is related to **IPL** description of both datasets are given below :
+we have solved the two case studies one is related to **Zommato**  data analysis and other is related to **IPL**  datat analysis description of both datasets are given below :
 
 
 
